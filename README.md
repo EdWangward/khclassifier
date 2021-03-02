@@ -1,2 +1,3 @@
-A CNN built to idenitfy between pictures of two people ("Kim", and "Harrison)
+**Image Classifier**
+Google colab with Convolutional Neural Network image classifier in Keras.
 
